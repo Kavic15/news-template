@@ -4,7 +4,7 @@ description: In an interconnected world, economic cooperation among nations is
   essential for sustainable growth and stability. This post explores the
   importance of collaboration in addressing economic challenges and fostering
   prosperity for all.
-image: /images/economy/economy.jpg
+image: /images/economy/xenomorph.jpg
 alt: Intergalactic Affairs Correspondent
 author: Marla Jennings
 edit: true
