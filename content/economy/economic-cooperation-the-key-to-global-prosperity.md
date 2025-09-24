@@ -6,7 +6,7 @@ description: In an interconnected world, economic cooperation among nations is
   prosperity for all.
 image: /images/economy/xenomorph.jpg
 alt: Intergalactic Affairs Correspondent
-author: Marla Jennings
+author: Elena Petrov
 edit: true
 date: 2025-09-24T14:41:49+02:00
 ---
